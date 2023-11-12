@@ -15,7 +15,7 @@ Ruby On Rails, ReactJs, TypeScript, CSS, HTML, Postgres
 ## EngageRocket
 EngageRocket.co is an employee engagement and performance management platform that has aided businesses in building engaged teams, empowering managers, and achieving excellence. With 350K users across 16+ countries and the collection of 10M responses.
 
-# Position: Senior Software Engineer (Aug 2017 - Oct 2023) - Full-time Remote - Initiated product development from scratch
+### Position: Senior Software Engineer (Aug 2017 - Oct 2023) - Full-time Remote - Initiated product development from scratch
 Summary:
 - Successfully led and managed pivotal projects utilizing Ruby on Rails, HTML, CSS and React.js to deliver modern solutions.
 - Implemented Object-Oriented Programming principles to ensure code maintainability and extensibility.
@@ -30,7 +30,7 @@ Summary:
 ## Futureworkz
 Web development company
 
-# Position: Full-stack Web Developer (Sep 2014 - Aug 2017)
+### Position: Full-stack Web Developer (Sep 2014 - Aug 2017)
 Summary:
 - Developed clean code, including comprehensive testing.
 - Collaborated with quality assurance teams to validate and debug code.
